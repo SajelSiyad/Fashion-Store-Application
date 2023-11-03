@@ -1,3 +1,3 @@
-# Glam Heaven
+# Fashion Store
 
 A new Flutter project.
